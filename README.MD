@@ -1,3 +1,5 @@
+[IN PROGRESS]
+
 Server: nextcloud-lab
 - IP: 178.104.XXX.XXX
 - Provider: Hetzner (Falkenstein)
